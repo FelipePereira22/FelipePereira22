@@ -6,7 +6,7 @@
   
 - 🎓 No 5º semestre do curso superior em Análise e desenvolvimento de sistemas
 
-- 💼 Na busca do meu primeiro emprego
+- 💼 Na busca do meu primeiro emprego como desenvolvedor web
 
 </br>
 
