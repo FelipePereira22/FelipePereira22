@@ -4,7 +4,7 @@
 
 - 💻 Atualmente estudo desenvolvimento web voltado para o Front End
   
-- 🎓 No 5º semestre do curso superior em Análise e desenvolvimento de sistemas
+- 🎓 Formação superior em Análise e desenvolvimento de sistemas
 
 - 💼 Na busca do meu primeiro emprego como desenvolvedor web
 
