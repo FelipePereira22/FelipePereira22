@@ -16,6 +16,8 @@
     <img align='center' alt='felipe-html' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  />
     <img align='center' alt='felipe-css' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />          
     <img align='center' alt='felipe-javascript' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+    <img align='center' alt='felipe-javascript' width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> 
+    <img align='center' alt='felipe-javascript' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" /> 
 </div>
 
 </br>
