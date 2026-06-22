@@ -8,6 +8,8 @@
 
 - 💼  Experiência profissional como aprendiz em desenvolvimento Front End na Anota Ai
 
+- 🔬 Experiência em Quality Assurance (QA), atuando na garantia de qualidade, homologação e mapeamento de bugs de software
+
 </br>
 
  ## <h3>Conhecimento</h3>
