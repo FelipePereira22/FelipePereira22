@@ -6,7 +6,7 @@
   
 - 🎓 Formação superior em Análise e desenvolvimento de sistemas
 
-- 💼 Atualmente trabalho como aprendiz no time de front end na Anota Ai
+- 💼  Experiência profissional como aprendiz em desenvolvimento Front End na Anota Ai
 
 </br>
 
