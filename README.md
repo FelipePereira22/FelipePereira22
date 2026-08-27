@@ -1,5 +1,5 @@
-<div align="center"><h1 align="center">Olá, eu sou o Felipe</h1></div>
 <div align="center">
+  <h1>Olá, eu sou o Felipe</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1000&color=13C3F7FD&background=4F24FF00&width=435&lines=Desenvolvedor+Front+End+Angular" alt="Typing SVG" /></a>
 </div>
 
