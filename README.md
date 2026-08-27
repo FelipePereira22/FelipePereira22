@@ -3,11 +3,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1000&color=13C3F7FD&background=4F24FF00&width=435&lines=Desenvolvedor+Front+End+Angular" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 Meu último projeto: [App para saber o clima de diversas Cidades](https://felipepereira22.github.io/AppWeather/)
+- 🔭 Meu último projeto: [App para saber o clima de diversas Cidades](https://github.com/FelipePereira22/AppWeather)
 
 - 🌱 O que estou estudando agora: **React, TypeScript e boas práticas de desenvolvimento**
 
-- 💼 Outro projeto em Angular [Tela de login com foco em Rotas](https://felipepereira22.github.io/LoginPage)
+- 💼 Outro projeto em Angular [Tela de login com foco em Rotas](https://github.com/FelipePereira22/LoginPage)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
