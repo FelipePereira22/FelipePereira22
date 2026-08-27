@@ -1,37 +1,16 @@
- # Olá, Eu sou o Felipe 👋
+<h1 align="center">Olá, eu sou o Felipe</h1>
+<h3 align="center">Desenvolvedor Front End em Angular</h3>
 
- <br/>
+- 🔭 Meu último projeto: [App para saber o clima de diversas C](https://felipepereira22.github.io/AppWeather/)
 
-- 💻 Focado em desenvolvimento Front End
-  
-- 🎓 Formação superior em Análise e desenvolvimento de sistemas
+- 🌱 O que estou estudando agora: **React, TypeScript e boas práticas de desenvolvimento**
 
-- 💼  Experiência profissional como aprendiz em desenvolvimento Front End na Anota Ai
+- 💼 Outro projeto em Angular [Tela de login, foco em rotas](https://felipepereira22.github.io/LoginPage)
 
-- 🔬 Experiência em Quality Assurance (QA), atuando na garantia de qualidade, homologação e mapeamento de bugs de software
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipepereiradev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipepereiradev/" height="30" width="40" /></a>
+</p>
 
-</br>
-
- ## <h3>Conhecimento</h3>
-
-<div style="display: inline_block">
-    <img align='center' alt='HTML' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  />
-    <img align='center' alt='CSS' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />          
-    <img align='center' alt='JavaScript' width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-    <img align='center' alt='TypeScript' width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> 
-    <img align='center' alt='Angular' width='40' height='40' src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" /> 
-</div>
-
-</br>
-
- ## <h3>Contato</h3>
-
-<div>
-  <a href='https://www.linkedin.com/in/felipepereiradev/' target: _blank > <img  src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-  
-</div>
- 
-  
-
-
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
