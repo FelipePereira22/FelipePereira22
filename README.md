@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe</h1>
 <h3 align="center">Desenvolvedor Front End em Angular</h3>
 
-- 🔭 Meu último projeto: [App para saber o clima de diversas C](https://felipepereira22.github.io/AppWeather/)
+- 🔭 Meu último projeto: [App para saber o clima de diversas Cidades](https://felipepereira22.github.io/AppWeather/)
 
 - 🌱 O que estou estudando agora: **React, TypeScript e boas práticas de desenvolvimento**
 
