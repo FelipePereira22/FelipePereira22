@@ -1,7 +1,11 @@
-<div style="text-align: center;">
+<p align="center">
   <h1>Olá, eu sou o Felipe</h1>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&pause=1000&color=13C3F7FD&background=4F24FF00&width=435&lines=Desenvolvedor+Front+End+Angular" alt="Typing SVG" /></a>
-</div>
+</p>
+
 - 🔭 Meu último projeto: [App para saber o clima de diversas Cidades](https://felipepereira22.github.io/AppWeather/)
 
 - 🌱 O que estou estudando agora: **React, TypeScript e boas práticas de desenvolvimento**
