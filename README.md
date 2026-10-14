@@ -7,7 +7,7 @@
 
 - 🌱 O que estou estudando agora: **React, TypeScript e boas práticas de desenvolvimento**
 
-- 💼 Outro projeto em Angular [Tela de login com foco em Rotas](https://github.com/FelipePereira22/LoginPage)
+- 💼 Outro projeto em Angular [Lista de tarefa individual, autenticção e rotas](https://github.com/FelipePereira22/MyTask)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
